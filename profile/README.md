@@ -1,4 +1,4 @@
-![Blueprint CLI](https://raw.githubusercontent.com/blueprint-cli/.github/main/profile/assets/banner-v2.png)
+![Blueprint CLI](https://raw.githubusercontent.com/blueprint-cli/.github/main/profile/assets/banner-v3.png)
 
 # Blueprint CLI
 
