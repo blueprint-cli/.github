@@ -1,5 +1,5 @@
 # Blueprint CLI organization profile
 
-Public copy: `profile/README.md`. Artwork: `profile/assets/avatar.png` and `profile/assets/banner.png`. Upload the avatar separately in organization settings.
+Public copy: `profile/README.md`. Current artwork: `profile/assets/avatar-v2.png` and `profile/assets/banner-v2.png`. Upload the avatar separately in organization settings.
 
-Created with built-in image generation. Battledeck uses an original crimson card emblem with a gold rune; Blueprint uses a white schema document on blueprint blue. The banners extend each identity with its project name and purpose.
+The revised identity uses an open geometric cube in coral and ivory on charcoal. Its banner reads “One schema. Many possibilities.” Created with built-in image generation. The original blue document artwork is retained as an earlier exploration.
